@@ -1,0 +1,29 @@
+.zlick-payments th {
+	text-align: left;
+	width: 30%;
+}
+
+.zlick-payments tr {
+	height: 40px;
+}
+
+.zlick-payments select, input {
+	width: 100%;
+	padding: 2px;
+	line-height: 28px;
+	height: 28px;
+	min-width: 350px;
+}
+
+.zlick-payments {
+	margin: 30px;
+}
+
+.zlick-submit{
+	text-align: center;
+	vertical-align: bottom;
+}
+
+.zlick-submit input{
+	width: 70%;
+}
